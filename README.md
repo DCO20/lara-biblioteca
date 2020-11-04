@@ -7,11 +7,12 @@ Esboço de um simples sistema de biblioteca.
 # Ações disponiveis
 CRUD de usuário, alunos, categorias e livros.
 
-CRUD de consultas dos livros emprestados
+CRUD de consultas dos usuários, alunos, livros, categorias e livros emprestados.
 
 Usuário admin usando o seeder
-name: admin
-email: admin@admin.com
+
+##### name: admin
+##### email: admin@admin.com
 
 # ScreenShots
 
@@ -21,7 +22,9 @@ email: admin@admin.com
 
 ![users](https://github.com/DCO20/lara_biblioteca/blob/master/users.png)
 
-![studants](https://github.com/DCO20/lara_biblioteca/blob/master/studants.png)
+![studants1](https://github.com/DCO20/lara_biblioteca/blob/master/studants1.png)
+
+![studants2](https://github.com/DCO20/lara_biblioteca/blob/master/studants2.png)
 
 ![libros1](https://github.com/DCO20/lara_biblioteca/blob/master/libros1.png)
 
