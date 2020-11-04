@@ -1,15 +1,15 @@
 # Lara_Biblioteca
- Sistema de biblioteca com o laravel 7
+ Sistema de biblioteca com o laravel 7.
  
 # Introdução
 Esboço de um simples sistema de biblioteca.
 
 # Ações disponiveis
-CRUD de usuário, alunos, categorias e livros.
+CRUD de usuários, alunos, categorias e livros.
 
 CRUD de consultas dos usuários, alunos, livros, categorias e livros emprestados.
 
-Usuário admin usando o seeder
+Usuário admin usando o seeder.
 
 ##### name: admin
 ##### email: admin@admin.com
