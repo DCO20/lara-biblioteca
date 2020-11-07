@@ -22,9 +22,9 @@ Usuário admin usando o seeder.
 
 ![users](https://github.com/DCO20/lara_biblioteca/blob/master/users.png)
 
-![studants1](https://github.com/DCO20/lara_biblioteca/blob/master/studants1.png)
+![studants1](https://github.com/DCO20/lara_biblioteca/blob/master/studants01.png)
 
-![studants2](https://github.com/DCO20/lara_biblioteca/blob/master/studants2.png)
+![studants2](https://github.com/DCO20/lara_biblioteca/blob/master/studants02.png)
 
 ![libros1](https://github.com/DCO20/lara_biblioteca/blob/master/libros1.png)
 
