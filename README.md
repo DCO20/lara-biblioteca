@@ -11,8 +11,8 @@ CRUD de consultas dos usuários, alunos, livros, categorias e livros emprestados
 
 Usuário admin usando o seeder.
 
-##### name: admin
 ##### email: admin@admin.com
+##### senha: admin
 
 # ScreenShots
 
