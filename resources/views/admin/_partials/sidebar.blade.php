@@ -26,7 +26,7 @@
             </li>
             
             <li>
-                <a href="{{route('studants.index')}}" class="lk-students.index lk-students.edit lk-students.destroy ">
+                <a href="{{route('studants.index')}}" class="lk-studants.index lk-studants.create lk-studants.edit lk-studants.show lk-studants.destroy ">
                     <i class="fas fa-graduation-cap"></i>Alunos</a>
             </li>
             
