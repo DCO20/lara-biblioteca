@@ -11,6 +11,7 @@
 
     <script src="https://kit.fontawesome.com/b0d8aefb17.js" crossorigin="anonymous"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="shortcut icon" href="{{ url('/static/images/favicon.ico')}}" type="image/x-icon">
     
     <title>LaraBiblioteca - @yield( 'title')</title>
 </head>
